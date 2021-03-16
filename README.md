@@ -9,5 +9,5 @@ Public repo for scripts I create and use for CTFs, can be linked directly for my
 
 `python3 mRemoteNGDecryptor.py  -s STRING <yourEncryptedString>`
 
-### XSS cheatshet
+### XSS cheatsheet
 https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
